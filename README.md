@@ -21,6 +21,6 @@
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
-     Outcomes Based on Launch Data - Statistical correlation between number of successful vs. failed productions was not performed. Such analysis could prove the intuitive 
+     Outcomes Based on Launch Data - Statistical correlation between number of successful vs. failed productions was not performed. Such analysis could prove the intuitive observation
 - What are some other possible tables and/or graphs that we could create?
 
