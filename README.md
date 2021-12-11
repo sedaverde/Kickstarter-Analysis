@@ -3,7 +3,9 @@
 ## Overview of Project
 
 ### Purpose
-    The analysis performed was used to identify correlations between the successfulness of a theater production based upon what month during the year it opened. An additional analysis was performed comparing the succefulness of the theater production based on the initial funding goals.
+    The analysis performed was used to identify correlations between the successfulness of a theater production based 
+    upon what month during the year it opened. An additional analysis was performed comparing the succefulness of the t
+    heater production based on the initial funding goals.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
